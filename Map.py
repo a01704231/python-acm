@@ -11,7 +11,7 @@ Generar un mapa en html
 ==== LIBRERÍAS ====
 Importamos la librería folium 
 https://python-visualization.github.io/folium/ 
-Es plugin de javascript adaptado al ecositema de python 
+Es plugin de javascript adaptado al ecosistema de python 
 ===================
 '''
 # pip install folium
